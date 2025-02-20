@@ -1,1 +1,2 @@
-# flow.github.io
+# Flow
+This website if for my discord bot - Flow
